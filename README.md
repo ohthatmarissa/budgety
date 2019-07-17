@@ -1,6 +1,7 @@
 # Budgety Budget App
 
-#### A budget application that calculates the percentage of Income to Expense
+#### A budget application that calculates the percentage of Expense to Income
+#### You can check it out here: https://ohthatmarissa.github.io/budgety/
 
 #### By **Marissa Perry**
 
