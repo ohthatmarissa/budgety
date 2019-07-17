@@ -21,11 +21,9 @@ A website created with HTML, CSS, JavaScript that takes in Income and Expenses. 
 ## Setup/Installation Requirements
 
 1. Clone this repository
-2. Download and install Node.js and Node package manager
-3. In command line, in the project main, use command $ npm install
-4. When finished loading use command $ npm run build
-5. When finished building use command $ npm run start to populate project in current browser
-6. Enjoy!
+2. Open in code editor
+3. Open Index.html in browser
+4. Enjoy!
 
 ## Known Bugs
 * No known bugs at this time.
@@ -34,14 +32,6 @@ A website created with HTML, CSS, JavaScript that takes in Income and Expenses. 
 * HTML
 * CSS   
 * JavaScript
-* Node.js
-* Node Package Manager
-* Webpack
-* Typescript
-* Uglify.js
-* esLint
-* Jasmin
-* Karma
 
 
 ## Support and contact details
